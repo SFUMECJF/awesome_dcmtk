@@ -2,6 +2,38 @@
 
 [TOC]
 
+
+
+<table border="0" width="10%" align="center">
+  <tr>
+    <td><img src="https://img1.github.io/tmp/1.jpg" height="80" width="82"></td>
+    <td><img src="https://img1.github.io/tmp/2.jpg" height="80" width="82"></td>
+    <td><img src="https://img1.github.io/tmp/3.jpg" height="80" width="82"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img1.github.io/tmp/4.jpg" height="80" width="82"></td>
+    <td><img src="https://img.shields.io/github/stars/SFUMECJF/awesome_dcmtk.svg?style=social"></td>
+    <td><img src="https://img1.github.io/tmp/6.jpg" height="82" width="82"></td>
+  </tr>
+   <tr>
+    <td><img src="https://img1.github.io/tmp/7.jpg" height="82" width="82"></td>
+    <td><img src="https://img1.github.io/tmp/8.jpg" height="82" width="82"></td>
+    <td><img src="https://img1.github.io/tmp/9.jpg" height="82" width="82"></td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/vuejs/vue">
+    <img src="https://img.shields.io/badge/Windows-10-brightgreen.svg" alt="ubuntu">
+  </a>
+  <a href="https://github.com/vuejs/vue-router">
+    <img src="https://img.shields.io/badge/VisualStudio-2017--2019-brightred.svg" alt="vue-router">
+  </a>
+  <a href="https://github.com/vuejs/vuex">
+    <img src="https://img.shields.io/badge/CMake-3.14.3-brightgreen.svg" alt="vuex">
+  </a>
+</p>  
+
 ##  1  仓库背景
 
 哈喽！
